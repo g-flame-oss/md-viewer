@@ -10,7 +10,7 @@
 
 A powerful, lightweight, single-file application for viewing and editing Markdown documents with LaTeX mathematical notation support.
 
- • [Report Bug](https://github.com/g-flame/markdown-latex-viewer/issues) • [Request Feature](https://github.com/g-flame/markdown-latex-viewer/issues)
+ • [Report Bug](https://github.com/g-flame/md-viewer/issues) • [Request Feature](https://github.com/g-flame/md-viewer/issues)
 ![image](https://github.com/user-attachments/assets/b600918a-8a1d-44c1-ae90-9713c612ddf9)
 
 
@@ -131,7 +131,6 @@ SOFTWARE.
   <b>G-flame</b>
   <br />
   <a href="https://github.com/g-flame">GitHub</a> •
-  <a href="https://twitter.com/gflame">Twitter</a>
 </div>
 
 ---
