@@ -12,7 +12,7 @@ A powerful, lightweight, single-file application for viewing and editing Markdow
 
 [📝 Report Bug](https://github.com/g-flame/md-viewer/issues) • [✨ Request Feature](https://github.com/g-flame/md-viewer/issues)
 
-![Markdown & LaTeX Viewer Screenshot](https://github.com/user-attachments/assets/b600918a-8a1d-44c1-ae90-9713c612ddf9)
+![Markdown & LaTeX Viewer Screenshot](https://github.com/user-attachments/assets/5616b3a2-5686-4022-bcd4-b06edf6a8309)
 
 </div>
 
