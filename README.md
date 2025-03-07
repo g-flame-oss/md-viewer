@@ -146,9 +146,8 @@ Markdown & LaTeX Viewer requires no installation or setup. It's a single HTML fi
 
 No installation required! The application is a single, self-contained HTML file.
 
-### Download Options:
+### Download :
 - Download directly from the [releases page](https://github.com/g-flame/markdown-latex-viewer/releases)
-- Clone the repository: `git clone https://github.com/g-flame/markdown-latex-viewer.git`
 
 ### Quick Setup:
 1. Download the HTML file
